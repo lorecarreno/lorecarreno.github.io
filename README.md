@@ -1,8 +1,9 @@
 ### Hi 👋 
-I'm Lorena Carreno.
-I'm learning Web Design.
-I'm interested in frontend development.
-📫 How to reach me: carrenoana@gmail.com
+I'm Lorena Carreno.  
+I'm learning Web Design.  
+I'm interested in frontend development.  
+📫 How to reach me: carrenoana@gmail.com  
+
 
 
 <!--
